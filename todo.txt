@@ -3,3 +3,5 @@
 - [x] add a few todo items in todo.txt
 - [x] mark some items in todo.txt as done
 - [ ] check in a new version
+- [ ] ask at least one question about this Git thing
+- [x] make another commit
